@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.count-box {
+  width: 100px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.increment {
+  margin-right: 20px;
+}
+
+.time-stamp-box {
+  width: 300px;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.name-list-box {
+  width: 300px;
+  margin: 10px auto;
+}
+
+.currency-box {
+  width: 300px;
+  margin: 10px auto;
+}
